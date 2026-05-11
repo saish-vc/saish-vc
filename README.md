@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-working on iot projects <br>i need help with how to imply ai in real projects and a guide to help me through my carieer path 
+working on iot project rn <br>i need help with how to imply ai in real projects and a guide to help me <br> !not looking for people with same frequency as me  
 
 
 ## 🌐 Socials:
