@@ -1,38 +1,56 @@
-## Hi there 👋
-# 💫 About Me:
+# saish-vc
 
+> Memorable developer positioning.
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/aitohustle) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s1mp1e) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sunilsawant6812@gmail.com) 
+## Header
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=saish-vc&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=saish-vc&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=saish-vc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Hi, I'm **saish-vc**. This README shares what I'm building, the tools I use, and the work I'm proud of.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=saish-vc&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=saish-vc&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=saish-vc&theme=github-dark" alt="saish-vc hero section" />
+  </picture>
+</p>
+## About Me
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=saish-vc&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=saish-vc&theme=github-dark" alt="saish-vc about section" />
+  </picture>
+</p>
+## Skills
 
----
-[![](https://komarev.com/ghpvc/?username=saish-vc&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=saish-vc&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=saish-vc&theme=github-dark" alt="saish-vc stack section" />
+  </picture>
+</p>
+## GitHub Stats
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=saish-vc&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=saish-vc&theme=github-dark" alt="saish-vc stats section" />
+  </picture>
+</p>
+## Projects
 
-<!--
-**saish-vc/saish-vc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=saish-vc&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=saish-vc&theme=github-dark" alt="saish-vc projects section" />
+  </picture>
+</p>
+## Heatmap
 
-Here are some ideas to get you started:
+## Connect
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=saish-vc&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=saish-vc&theme=github-dark" alt="saish-vc social section" />
+  </picture>
+</p>
